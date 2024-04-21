@@ -40,7 +40,7 @@ TVB J2(IPv6),https://iptv.hiper25.com/Pearl/video.m3u8
 郑铁频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
-央视频区👉流畅,#genre#
+央视官网线路,#genre#
 
 CCTV1,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576803.m3u8
 CCTV2,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576703.m3u8
@@ -594,51 +594,46 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 上海地区,#genre#
 
-「亦非云」东方卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
-「亦非云」欢笑剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/index.m3u8
-「亦非云」乐游,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
-「亦非云」生活时尚,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43043/index.m3u8
-「亦非云」动漫秀场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43045/index.m3u8
-「亦非云」都市剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43085/index.m3u8
-「亦非云」新视觉,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43082/index.m3u8
-「亦非云」魅力足球,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
-「亦非云」劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
+东方卫视,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel26/index.m3u8
+欢笑剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43039/index.m3u8
+乐游,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43040/index.m3u8
+生活时尚,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43043/index.m3u8
+动漫秀场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43045/index.m3u8
+都市剧场,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43085/index.m3u8
+新视觉,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43082/index.m3u8
+魅力足球,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
+劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
 
-「百事通」新闻综合,https://cdn2.jdshipin.com/api/bst2.php?id=xwzhhd8m/8000000
-「百事通」上海都市,https://cdn2.jdshipin.com/api/bst2.php?id=dshd8m/8000000
-「百事通」东方影视,https://cdn2.jdshipin.com/api/bst2.php?id=dfyshd8m/8000000
-「百事通」上海外语,https://cdn2.jdshipin.com/api/bst2.php?id=icshd8m/8000000
-「百事通」第一财经,https://cdn2.jdshipin.com/api/bst2.php?id=dycjhd8m/8000000
-「百事通」上海纪实,https://cdn2.jdshipin.com/api/bst2.php?id=jspdhd/4000000
-「百事通」上海教育,https://cdn2.jdshipin.com/api/bst2.php?id=setvhd/8000000
-「百事通」五星体育,https://cdn2.jdshipin.com/api/bst2.php?id=wxtyhd8m/8000000
-「百事通」劲爆体育,https://cdn2.jdshipin.com/api/bst2.php?id=jbtyhd8m/8000000
-「百事通」新 视 觉,https://cdn2.jdshipin.com/api/bst2.php?id=xsjhd8m/8000000
-「百事通」七彩戏剧,https://cdn2.jdshipin.com/api/bst2.php?id=qcxjhd8m/8000000
-「百事通」乐游,https://cdn2.jdshipin.com/api/bst2.php?id=qjshd8m/8000000
-「百事通」生活时尚,https://cdn2.jdshipin.com/api/bst2.php?id=shss8m/8000000
-「百事通」游戏风云,https://cdn2.jdshipin.com/api/bst2.php?id=yxfy8m/8000000
-「百事通」欢笑剧场4K,https://cdn2.jdshipin.com/api/bst2.php?id=hxjc4k/15000000
-「百事通」欢笑剧场,https://cdn2.jdshipin.com/api/bst2.php?id=hxjc8m/8000000
-「百事通」动漫秀场,https://cdn2.jdshipin.com/api/bst2.php?id=dmxc8m/8000000
-「百事通」上海教育台,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shjy
+新闻综合,https://cdn2.jdshipin.com/api/bst2.php?id=xwzhhd8m/8000000
+上海都市,https://cdn2.jdshipin.com/api/bst2.php?id=dshd8m/8000000
+东方影视,https://cdn2.jdshipin.com/api/bst2.php?id=dfyshd8m/8000000
+上海外语,https://cdn2.jdshipin.com/api/bst2.php?id=icshd8m/8000000
+第一财经,https://cdn2.jdshipin.com/api/bst2.php?id=dycjhd8m/8000000
+上海纪实,https://cdn2.jdshipin.com/api/bst2.php?id=jspdhd/4000000
+上海教育,https://cdn2.jdshipin.com/api/bst2.php?id=setvhd/8000000
+五星体育,https://cdn2.jdshipin.com/api/bst2.php?id=wxtyhd8m/8000000
+劲爆体育,https://cdn2.jdshipin.com/api/bst2.php?id=jbtyhd8m/8000000
+新 视 觉,https://cdn2.jdshipin.com/api/bst2.php?id=xsjhd8m/8000000
+七彩戏剧,https://cdn2.jdshipin.com/api/bst2.php?id=qcxjhd8m/8000000
+乐游,https://cdn2.jdshipin.com/api/bst2.php?id=qjshd8m/8000000
+生活时尚,https://cdn2.jdshipin.com/api/bst2.php?id=shss8m/8000000
+游戏风云,https://cdn2.jdshipin.com/api/bst2.php?id=yxfy8m/8000000
+欢笑剧场4K,https://cdn2.jdshipin.com/api/bst2.php?id=hxjc4k/15000000
+欢笑剧场,https://cdn2.jdshipin.com/api/bst2.php?id=hxjc8m/8000000
+动漫秀场,https://cdn2.jdshipin.com/api/bst2.php?id=dmxc8m/8000000
+上海教育台,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shjy
 
-「官方」浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
-「官方」魅力足球,http://61.136.96.78:880/97.m3u8
-「官方」东方购物,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
-「官方」嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
-「官方」崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+浦东电视台,https://pdtvlive.pudongtv.cn/live/pdtv.m3u8?txSecret=99368ed29876877386e7dbcf28e43d34&txTime=677384DB
+魅力足球,http://61.136.96.78:880/97.m3u8
+东方购物,http://ocj2.kksmg.com/ocj2/ocj2.m3u8
+嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
 
 
 
 江西地区,#genre#
 
-江西都市频道,http://php.jdshipin.com:8880/iptv.php?id=jxds
-江西经济生活频道,http://php.jdshipin.com:8880/iptv.php?id=jxjjsh
-江西影视旅游频道,http://php.jdshipin.com:8880/iptv.php?id=jxysly
-江西公共农业频道,http://php.jdshipin.com:8880/iptv.php?id=jxggny
-江西少儿频道,http://php.jdshipin.com:8880/iptv.php?id=jxse
-江西新闻频道,http://php.jdshipin.com:8880/iptv.php?id=jxxw
+
 江西教育频道,http://php.jdshipin.com:8880/iptv.php?id=jxjy
 南昌新闻综合频道,http://live.cooltv.top/tv/nctv.php?id=1
 南昌都市频道,http://live.cooltv.top/tv/nctv.php?id=2
