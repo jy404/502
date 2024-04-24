@@ -1793,12 +1793,12 @@
       "name": "1",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
-      "url": "https://gitee.com/jxl2023/502/raw/master/szq.txt"
+      "url": "./szq.txt"
     },
     {
       "name": "2",
       "type": 0,
-      "url": "https://gitee.com/jxl2023/502/raw/master/11.txt",
+      "url": "./szq",
       "playerType": 1
     }
   ]
