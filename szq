@@ -1,4 +1,5 @@
-酒店1,#genre#
+
+测试酒店1,#genre#
 CCTV1-综合,http://111.74.155.231:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2-财经,http://111.74.155.231:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3-综艺,http://111.74.155.231:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -242,6 +243,7 @@ CCTV13-新闻,http://116.237.248.80:9901/tsfile/live/0013_1.m3u8?key=txiptv&play
 CCTV14-少儿,http://116.237.248.80:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15-音乐,http://116.237.248.80:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://116.237.248.80:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+东方财经HD,http://116.237.248.80:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 上海卫视,http://116.237.248.80:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 都市剧场,http://116.237.248.80:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 上海纪实,http://116.237.248.80:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -275,4 +277,3 @@ CCTV17,http://116.237.248.80:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&
 江西卫视,http://116.237.248.80:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://116.237.248.80:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://116.237.248.80:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-东方财经HD,http://116.237.248.80:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
