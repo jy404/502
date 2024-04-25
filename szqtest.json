@@ -1776,15 +1776,15 @@
   ],
   "lives": [
     {
-      "name": "1",
+      "name": "szq",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
       "type": 0,
       "url": "./szq.txt"
     },
     {
-      "name": "2",
+      "name": "切换备用",
       "type": 0,
-      "url": "./szq",
+      "url": "https://szq-1251166371.cos.ap-shanghai.myqcloud.com/szq.txt",
       "playerType": 1
     }
   ]
