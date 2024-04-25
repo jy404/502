@@ -11,15 +11,29 @@ CCTV1,http://ldncctvwbndbd.a.bdydns.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV13,http://ldncctvwbndbd.a.bdydns.com/ldncctvwbnd/ldcctv13_2/index.m3u8
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 
-TVB翡翠台(IPv6),https://iptv.hiper25.com/TVB/video.m3u8
-TVB J2(IPv6),https://iptv.hiper25.com/Pearl/video.m3u8
-明珠台(IPv6),https://iptv.hiper25.com/Pearl/video.m3u8
-澳門澳視(IPv6),https://iptv.hiper25.com/TDM/video.m3u8
+重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+凤凰中文频道,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯频道,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港频道,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
+中天新闻,http://36.108.172.237:10002/stream/channelid/912519102
+无线新闻,http://36.108.172.237:10002/stream/channelid/864637417
+无线财经,http://36.108.172.237:10002/stream/channelid/1164694547
+翡翠,http://36.108.172.237:10002/stream/channelid/922250134
+
+TVB无线新闻http://137.175.30.127:9080/hls/inews.m3u8
+TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+TVB明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
+TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+东森新闻台,https://edge1.laotv.la/live/DongsenMovie/index.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
 莲花卫视,http://php.jdshipin.com:8880/amlh.php
 星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+金马影院,http://pull.kktv8.com/livekktv/128600025.flv
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 安徽卫视,http://159.75.166.157/php/ah.php?id=ahws
@@ -37,7 +51,6 @@ TVB J2(IPv6),https://iptv.hiper25.com/Pearl/video.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
-郑铁频道,http://39.162.27.11:8081/newlive/live/hls/1/live.m3u8
 人民铁道,http://39.162.27.11:8081/newlive/live/hls/2/live.m3u8
 
 央视官网线路,#genre#
