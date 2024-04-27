@@ -738,6 +738,11 @@ TV星河,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=22
 凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 
+凤凰卫视，http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://61.221.215.25:8800/hls/47/index.m3u8
+凤凰香港,http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+
 中天新闻,http://36.108.172.237:10002/stream/channelid/912519102
 无线新闻,http://36.108.172.237:10002/stream/channelid/864637417
 无线财经,http://36.108.172.237:10002/stream/channelid/1164694547
