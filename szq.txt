@@ -909,10 +909,10 @@ TV星河,http://8.134.236.66:45678/ali.hlspull.yximgs.com?id=22
 中天新闻,http://36.108.172.237:10002/stream/channelid/912519102
 无线新闻,http://36.108.172.237:10002/stream/channelid/864637417
 无线财经,http://36.108.172.237:10002/stream/channelid/1164694547
-翡翠,http://36.108.172.237:10002/stream/channelid/922250134
+翡翠台,http://36.108.172.237:10002/stream/channelid/922250134
 
 TVB无线新闻http://137.175.30.127:9080/hls/inews.m3u8
-TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 TVB无线财经台,http://live.cooltv.top/tv/tvb.php?id=2&hq
 TVB明珠台,http://xjayrf.eatuo.com:9901/tsfile/live/1005_1.m3u8
